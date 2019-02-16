@@ -1,5 +1,11 @@
 /*--MENU------------------------------------------------------------*/
 .menu {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  z-index: 30;
+  background: #FFF;
 }
 
 .menu.navbar_fixed {
